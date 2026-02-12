@@ -50,7 +50,6 @@ The number 1 word is stern,
 ## Results 📊
 <img width="1922" height="979" alt="image" src="https://github.com/user-attachments/assets/460dd7c0-a19a-4bdc-a949-da420d8cfc8f" />
 
-**Some statistics for the bot using wordle unlimited. The bot played 75 games and only lost 1 leaving it with a 99% accuracy. This was using the word SALET as a starting guess and always picking the number 1 answer.**
-
+**Some statistics for the bot using wordle unlimited. The bot played 75 games and only lost 1 leaving it with a ~98.7% accuracy. This was using the word SALET as a starting guess and always picking the number 1 answer.**
 
 ## HAVE FUN! 🎮
