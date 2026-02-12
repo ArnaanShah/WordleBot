@@ -5,10 +5,6 @@
 ## Welcome 👋
 ### Welcome to WordleBot 🤖! WordleBot is a tool designed to help players make efficient guesses while playing Wordle. The bot first looks at the pattern, then it narrows down the list of possible answers, and finally it ranks the next best words to guess based on letter frequency in the remaining words.
 
-<img width="480.5" height="244.75" alt="image" src="https://github.com/user-attachments/assets/460dd7c0-a19a-4bdc-a949-da420d8cfc8f" />
-
-**Some statistics for the bot using wordle unlimited. The bot played 75 games and only lost 1 leaving it with a 99% accuracy. This was using the word SALET as a starting guess and always picking the number 1 answer.**
-
 ## How to use 📝  
 
 ***Lets do an example using the word STERN as our answer***
@@ -51,4 +47,10 @@ The number 1 word is stern,
 
 6. Finally, the program will loop and you will be prompted to enter a guess again.
 
-### HAVE FUN! 🎮
+## Results 📊
+<img width="1922" height="979" alt="image" src="https://github.com/user-attachments/assets/460dd7c0-a19a-4bdc-a949-da420d8cfc8f" />
+
+**Some statistics for the bot using wordle unlimited. The bot played 75 games and only lost 1 leaving it with a 99% accuracy. This was using the word SALET as a starting guess and always picking the number 1 answer.**
+
+
+## HAVE FUN! 🎮
