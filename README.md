@@ -23,7 +23,7 @@ Welcome to WordleBot, this bot will help you find the best words to guess when p
 Type your guess: Stare
 ```
 
-3. You will now be prompted to enter the pattern. To do this, guess your word in Wordle and then type out the 5 letter pattern.
+3. You will now be prompted to enter the pattern. To do this, guess your word in Wordle and then type out the 5 color pattern.
 
 **Type it using this format: _ = Gray, ~ = Yellow, O = Green**
 
