@@ -3,7 +3,11 @@
 <img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/01e0107f-1ad2-4523-bada-bb8444f02449" />
 
 ## Welcome 👋
-### Welcome to WordleBot 🤖! WordleBot is a tool designed to help players make efficient guesses while playing Wordle. The bot looks at the pattern, and then narrows down the list of possible answers and ranks the best next guesses based on letter frequency.
+### Welcome to WordleBot 🤖! WordleBot is a tool designed to help players make efficient guesses while playing Wordle. The bot first looks at the pattern, then it narrows down the list of possible answers, and finally it ranks the next best words to guess based on letter frequency in the remaining words.
+
+<img width="480.5" height="244.75" alt="image" src="https://github.com/user-attachments/assets/460dd7c0-a19a-4bdc-a949-da420d8cfc8f" />
+
+**Some statistics for the bot using wordle unlimited. The bot played 75 games and only lost 1 leaving it with a 99% accuracy. This was using the word SALET as a starting guess and always picking the number 1 answer.**
 
 ## How to use 📝  
 
