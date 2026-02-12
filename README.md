@@ -1,4 +1,6 @@
-# WordleBot
+# WordleBot 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/01e0107f-1ad2-4523-bada-bb8444f02449" />
 
 Welcome to WordleBot! WordleBot is a tool designed to help players make efficient guesses while playing Wordle. The bot looks at the pattern, and then narrows down the list of possible answers and ranks the best next guesses based on letter frequency.
 
