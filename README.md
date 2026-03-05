@@ -5,6 +5,8 @@
 ## Welcome 👋
 ### Welcome to WordleBot 🤖! WordleBot is a tool designed to help players make efficient guesses while playing Wordle. The bot first looks at the pattern, then it narrows down the list of possible answers, and finally it ranks the next best words to guess based on letter frequency in the remaining words.
 
+[Try it Online!](https://studio.code.org/projects/pythonlab/2455c023-f6b1-4083-b30a-583cc1d054ed)
+
 ## How to use 📝  
 
 ***Lets do an example using the word STERN as our answer***
