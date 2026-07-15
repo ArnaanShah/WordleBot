@@ -5,7 +5,7 @@ from collections import defaultdict
 
 # Get the official list of answers and guesses
 answerWords = []
-with open("wordleAnswers.txt", "r") as file:
+with open("wordleGuesses.txt", "r") as file:
     for answer in file:
         answer = answer.strip("\n")
         answerWords.append(answer)
