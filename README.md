@@ -1,6 +1,8 @@
 # WordleBot 
 
 <img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/01e0107f-1ad2-4523-bada-bb8444f02449" />
+## ⚠️ ATTENTION ⚠️ 
+### As of 7/15/26, I had to make an update to the program because Wordle no longer has a published list of all possible answers. The program now accepts all possible 5-letter words as possible answers and thus is not as accurate. It is still much more effective than a vast majority of wordle players, but do not expect the same results detailed below. 
 
 ## Welcome 👋
 ### Welcome to WordleBot 🤖! WordleBot is a tool designed to help players make efficient guesses while playing Wordle. The bot first looks at the pattern, then it narrows down the list of possible answers, and finally it ranks the next best words to guess based on letter frequency in the remaining words.
